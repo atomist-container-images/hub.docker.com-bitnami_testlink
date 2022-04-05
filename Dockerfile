@@ -55,18 +55,3 @@ FROM bitnami/testlink:1.9.20-debian-10-r661
 
 # Tags: 1.9.20-debian-10-r660
 FROM bitnami/testlink:1.9.20-debian-10-r660
-
-# Tags: 1.9.20-debian-10-r659
-FROM bitnami/testlink:1.9.20-debian-10-r659
-
-# Tags: 1.9.20-debian-10-r658
-FROM bitnami/testlink:1.9.20-debian-10-r658
-
-# Tags: 1.9.20-debian-10-r657
-FROM bitnami/testlink:1.9.20-debian-10-r657
-
-# Tags: 1.9.20-debian-10-r656
-FROM bitnami/testlink:1.9.20-debian-10-r656
-
-# Tags: 1.9.20-debian-10-r655
-FROM bitnami/testlink:1.9.20-debian-10-r655
